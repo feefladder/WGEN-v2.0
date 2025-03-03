@@ -59,7 +59,7 @@ The following sections outline the steps you can take to run the WGEN.
 
 - `README.md` is what you are looking at now.
 - `R_sessionInfo.txt` contains a list of packages in `R` (_attached base packages, attached packages, and loaded via a namespace_) with their release version. 
-- `LICENSE` describes the terms of the MIT LICENSE under which our code is licensed. This is a "free, copyleft license for software and other kinds of works, that guarantees end users the four freedoms to run, study, share, and modify the software".
+- `LICENSE` describes the terms of the MIT LICENSE under which our code is licensed. This is a liberal license for software and other kinds of works, that guarantees end users the four freedoms to run, study, share, and modify the software for any purpose.
 - `docs/` contains the articles (PDF format) published in peer-reviewed journals.
 - `ClimateChangeScenarios.csv` contains the user inputs as a list of options to impose thermodynamic climate change scenarios, including changes in temperature (degree C), changes in precipitation mean (%), and changes for precipitation extremes quantile (i.e., Clausius–Clapeyron scaling) (%).
 - `SimulationLength.csv` contains the user inputs for number of years of simulation per ensemble member and number of ensemble members.
